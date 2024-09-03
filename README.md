@@ -4,7 +4,7 @@
 </div>
 <div align=center>
   <h3>GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=BitByte08&theme=onedark" height=195>
+  <img src="https://github-readme-stats.vercel.app/api?username=BitByte08&theme=onedark" height=195><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitByte08&layout=compact" height=195>
 </div>
 <div align=center>
