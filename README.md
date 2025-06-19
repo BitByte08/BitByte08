@@ -5,6 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BitByte08&theme=graywhite" style="height:12rem">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitByte08&layout=compact" style="height:12rem">
 </div>
+<a href="https://solved.ac/bitbyte08"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bitbyte08"></a>
 <img src="https://media1.tenor.com/m/u8M7kk5ZXmwAAAAC/banana-cat-crying.gif">
 <h2>Archive</h2>
   <a href="https://famous-wildebeest-745.notion.site/Study-151aa6b362ed80baa8f8cb9f12eaba8b?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
